@@ -1,0 +1,51 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Arvo', serif;
+    text-align: center;
+}
+.head_one{
+    font-size:large;
+    color: gray;
+   
+}
+.head_two{
+    font-size: xx-large;
+}
+.head_three{
+    font-size: x-large;
+    color: gray;
+}
+ul{
+    width: 1300px;
+    margin: auto;
+    border-top: 4px solid black;
+    border-bottom: 1px solid black;
+}
+li{
+    display: inline-block;
+    margin: 18px;
+    padding-left: 120px;
+    font-size: larger;
+    font-weight: bolder;
+    text-decoration: underline;
+    text-transform: uppercase;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+}
+img{
+    width: 350px;
+    height: 270px;
+    margin: 20px auto 20px auto;
+}
+p{
+    text-align: center;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    word-spacing: 20px;
+    font-size: 25px;
+}
